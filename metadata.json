@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets 연동 도서관",
+  "description": "Google Sheets 및 Apps Script 실시간 연동 도서 검색 및 소장 정보 조회 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
